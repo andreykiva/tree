@@ -1,1 +1,1 @@
-# tree
+#Для запуска - node index.js _first_argument _second_argument, где _first_argument - относительный путь до директории, а _second_argument - уровень вложенности. Программа #показвает структуру папок и файлов в виде иерархического дерева!
